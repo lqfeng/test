@@ -1,0 +1,8 @@
+{
+  "export_version": "1.0",
+  "generated_at": "2026-06-23T00:00:00Z",
+  "source": "/users/lqfeng/starred",
+  "pages_fetched": [1,2,3,4,5,6,7,8],
+  "note": "This export includes the repositories returned by the GitHub API for pages 1-8 of /users/lqfeng/starred as retrieved by the assistant. The API returns up to 100 results per page; there may be more starred repositories beyond page 8. To fetch more, request further pages. For a human-readable list and links, see https://github.com/lqfeng/starred.",
+  "repositories": []
+}
